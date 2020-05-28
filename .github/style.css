@@ -23,3 +23,7 @@ h2 {
   display: inline-block; /* nebeneinander statt untereinander:*/
   padding: 0px 20px;
 }
+#profilbild {
+  height: 100%;
+  width: auto;
+}
